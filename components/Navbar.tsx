@@ -13,14 +13,14 @@ const Navbar: React.FC = () => {
                     <div className="w-10 h-10 rounded-lg bg-gradient-to-br from-blue-600 to-purple-600 p-[1px]">
                         <div className="w-full h-full bg-[#0f1021] rounded-lg flex items-center justify-center">
                            <img 
-                                src="https://i.ibb.co/jZrmQ4H5/file-00000000da4471f8a42184ac69242be6.png" 
+                                src="https://files.catbox.moe/65rem4.png" 
                                 className="w-8 h-8 rounded-md" 
                                 alt="Logo" 
                             />
                         </div>
                     </div>
                     <span className="text-xl font-bold text-white tracking-tight group-hover:text-blue-400 transition-colors">
-                        King RANUX <span className="text-blue-500">Pro</span>
+                        ISHAN-X BETA <span className="text-blue-500">MD</span>
                     </span>
                 </a>
                 
@@ -37,7 +37,7 @@ const Navbar: React.FC = () => {
                     ))}
                     
                     <a 
-                        href="https://github.com/ransara-devnath-ofc" 
+                        href="https://github.com/ishanxmd/ISHAN-X-BETA-MD" 
                         target="_blank"
                         className="ml-4 px-5 py-2 text-sm font-bold text-white bg-blue-600 hover:bg-blue-700 rounded-lg transition-colors shadow-lg shadow-blue-600/20"
                     >
