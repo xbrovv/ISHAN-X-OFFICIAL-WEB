@@ -71,7 +71,7 @@ const Hero: React.FC = () => {
 
             {/* Description - UPDATED FOR AUTO DEPLOY */}
             <p data-aos="fade-up" data-aos-delay="300" className="max-w-2xl mx-auto text-slate-400 mb-10 leading-relaxed text-base md:text-lg">
-                No GitHub. No Heroku. No Servers needed. Just pair your device and experience the <span className="text-white font-semibold">King RANUX Auto-Cloud</span> revolution. Your bot deploys automatically in 60 seconds.
+                No GitHub. No Heroku. No Servers needed. Just pair your device and experience the <span className="text-white font-semibold">ISHAN-X BETA Auto-Cloud</span> revolution. Your bot deploys automatically in 60 seconds.
             </p>
 
             {/* Buttons with Glow Effects */}
@@ -84,7 +84,7 @@ const Hero: React.FC = () => {
                         <div className="absolute inset-0 bg-white/20 transform -skew-x-12 -translate-x-full group-hover:translate-x-full transition-transform duration-700"></div>
                     </button>
                 </a>
-                <a href="https://whatsapp.com/channel/0029VbC5zjdAojYzyAJS7U2S" className="w-full sm:w-auto group">
+                <a href="https://whatsapp.com/channel/0029Vb7eEOGLY6dBNzl2IH0O" className="w-full sm:w-auto group">
                     <button className="w-full sm:w-auto px-10 py-4 rounded-xl bg-[#121b2e] border border-green-500/30 text-white font-bold hover:bg-green-500/10 hover:border-green-500/60 transition-all backdrop-blur-md flex items-center justify-center gap-3 shadow-[0_0_15px_rgba(34,197,94,0.1)] hover:shadow-[0_0_30px_rgba(34,197,94,0.2)]">
                         <i className="fa-brands fa-whatsapp text-green-400 text-2xl group-hover:rotate-[360deg] transition-transform duration-700"></i> Join Channel
                     </button>
@@ -105,7 +105,7 @@ const Hero: React.FC = () => {
                      {/* Main Image */}
                      <div className="relative w-full h-full rounded-[2rem] overflow-hidden shadow-2xl border-2 border-indigo-500/30 bg-[#0f172a] group">
                          <img 
-                            src="https://i.ibb.co/jZrmQ4H5/file-00000000da4471f8a42184ac69242be6.png" 
+                            src="https://files.catbox.moe/65rem4.png" 
                             alt="Bot Profile" 
                             className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110"
                         />
