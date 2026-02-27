@@ -6,8 +6,8 @@ const Footer: React.FC = () => {
         <div className="container mx-auto px-6">
             <div className="flex flex-col md:flex-row justify-between items-center">
                 <div className="mb-6 md:mb-0 text-center md:text-left">
-                    <a href="#" className="text-2xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-purple-500">King RANUX Pro</a>
-                    <p className="text-slate-400 mt-2 text-sm">© 2026 King RANUX Pro. All Rights Reserved.</p>
+                    <a href="#" className="text-2xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-purple-500">ISHAN-X MD BETA</a>
+                    <p className="text-slate-400 mt-2 text-sm">© 2026 ISHAN-MD BETA. All Rights Reserved.</p>
                 </div>
                 
                 <div className="flex space-x-6">
@@ -27,7 +27,7 @@ const Footer: React.FC = () => {
             </div>
             
             <div className="border-t border-slate-800 mt-8 pt-8 text-center text-slate-500 text-sm">
-                <p>Designed with <i className="fas fa-heart text-red-500 mx-1"></i> by <span className="text-secondary font-medium">A.M.Ransara Devnath</span></p>
+                <p>Designed with <i className="fas fa-heart text-red-500 mx-1"></i> by <span className="text-secondary font-medium">I.G Ishan Madusanke</span></p>
             </div>
         </div>
     </footer>
