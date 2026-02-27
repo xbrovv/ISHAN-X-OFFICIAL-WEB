@@ -128,7 +128,7 @@ const Commands: React.FC = () => {
             </div>
             
             <div className="text-center mt-12">
-                 <a href="https://github.com/ransara-devnath-ofc" target="_blank" rel="noreferrer">
+                 <a href="https://github.com/ishanxmd/ISHAN-X-BETA-MD" target="_blank" rel="noreferrer">
                      <button className="px-8 py-3 rounded-full border border-slate-700 text-slate-300 text-sm font-medium hover:border-indigo-500 hover:text-white transition-all hover:bg-white/5 hover:shadow-[0_0_15px_rgba(99,102,241,0.2)]">
                         View Full Documentation on GitHub
                      </button>
