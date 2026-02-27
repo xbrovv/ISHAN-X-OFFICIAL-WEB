@@ -13,8 +13,8 @@ const Developer: React.FC = () => {
                 <div className="md:w-1/2 flex justify-center" data-aos="fade-right">
                     <div className="relative w-72 h-72 md:w-80 md:h-80 group">
                         <div className="absolute inset-0 rounded-2xl bg-gradient-to-br from-primary to-secondary blur-xl opacity-20 group-hover:opacity-40 transition-opacity duration-500"></div>
-                        <img src="https://i.ibb.co/JjZSKTwj/IMG-20260125-WA0024.jpg" 
-                             alt="A.M.Ransara Devnath" 
+                        <img src="https://files.catbox.moe/qj1z48.png" 
+                             alt="I.G.Ishan Madusanke" 
                              className="relative w-full h-full object-cover rounded-2xl border-4 border-slate-800 shadow-2xl transition-transform duration-500 group-hover:scale-105" />
                     </div>
                 </div>
@@ -22,12 +22,12 @@ const Developer: React.FC = () => {
                 <div className="md:w-1/2" data-aos="fade-left">
                     <h3 className="text-2xl font-bold mb-6 text-white">Who is behind this?</h3>
                     <p className="text-slate-400 mb-6 leading-relaxed">
-                        I'm <span className="text-primary font-semibold">A.M.Ransara Devnath</span>, a passionate Full Stack Developer and the creator of King RANUX Pro. 
+                        I'm <span className="text-primary font-semibold">I.G Ishan Madusanke</span>, a passionate Full Stack Developer and the creator of ISHAN-X BETA. 
                         My mission is to simplify communication through advanced automation technology, making it accessible to everyone.
                     </p>
                     
                     <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 mb-8">
-                         <a href="https://wa.me/message/XQZHYHBQ3E47I1" className="flex items-center gap-4 p-4 bg-slate-800 rounded-lg hover:bg-slate-700 transition-colors border border-transparent hover:border-slate-600">
+                         <a href="https://wa.me/message/PDS7DAO342DCG1" className="flex items-center gap-4 p-4 bg-slate-800 rounded-lg hover:bg-slate-700 transition-colors border border-transparent hover:border-slate-600">
                              <div className="w-10 h-10 rounded-full bg-green-500/20 flex items-center justify-center text-green-500">
                                  <i className="fa-brands fa-whatsapp text-xl"></i>
                              </div>
@@ -37,7 +37,7 @@ const Developer: React.FC = () => {
                              </div>
                          </a>
                          
-                         <a href="https://chat.whatsapp.com/DClxzLZvv96F5mCVBE1DFI" className="flex items-center gap-4 p-4 bg-slate-800 rounded-lg hover:bg-slate-700 transition-colors border border-transparent hover:border-slate-600">
+                         <a href="https://chat.whatsapp.com/C5jE3Tk7U0RBGcR6kwRSUi" className="flex items-center gap-4 p-4 bg-slate-800 rounded-lg hover:bg-slate-700 transition-colors border border-transparent hover:border-slate-600">
                              <div className="w-10 h-10 rounded-full bg-secondary/20 flex items-center justify-center text-secondary">
                                  <i className="fa-solid fa-users text-xl"></i>
                              </div>
