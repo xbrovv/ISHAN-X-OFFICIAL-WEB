@@ -13,7 +13,7 @@ const Preloader: React.FC = () => {
                 {/* Center Logo */}
                 <div className="absolute inset-3 rounded-full overflow-hidden shadow-2xl shadow-indigo-500/20">
                      <img 
-                        src="https://i.ibb.co/jZrmQ4H5/file-00000000da4471f8a42184ac69242be6.png" 
+                        src="https://files.catbox.moe/65rem4.png" 
                         alt="Logo" 
                         className="w-full h-full object-cover animate-pulse"
                     />
@@ -23,7 +23,7 @@ const Preloader: React.FC = () => {
             {/* Glitch Text Title */}
             <div className="mb-2">
                 <h1 className="text-3xl font-bold text-white tracking-[0.2em] font-sans glitch" data-text="KING RANUX">
-                    KING RANUX
+                    ISHAN-X BETA
                 </h1>
             </div>
             
