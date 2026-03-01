@@ -38,7 +38,7 @@ const DeploySection: React.FC = () => {
                                     </p>
 
                                     <div className="w-full space-y-4 mt-auto">
-                                        <a href="https://ishan-x-md-beta-pair-web.onrender.com" target="_blank" rel="noreferrer" className="block w-full group">
+                                        <a href="https://ishan-x-md-beta-pair-web-3wke.onrender.com" target="_blank" rel="noreferrer" className="block w-full group">
                                             <button className="w-full py-4 rounded-xl bg-gradient-to-r from-indigo-600 to-violet-600 text-white font-bold tracking-wide shadow-lg shadow-indigo-500/20 group-hover:shadow-indigo-500/40 transition-all transform group-hover:-translate-y-1">
                                                 <i className="fa-solid fa-link mr-2"></i> Link Device & Deploy
                                             </button>
@@ -75,7 +75,7 @@ const DeploySection: React.FC = () => {
                                     </p>
 
                                     <div className="w-full space-y-4 mt-auto">
-                                        <a href="https://ishan-x-md-beta-pair-web.onrender.com" target="_blank" rel="noreferrer" className="block w-full group">
+                                        <a href="https://ishan-x-md-beta-pair-web-3wke.onrender.com" target="_blank" rel="noreferrer" className="block w-full group">
                                             <button className="w-full py-4 rounded-xl bg-white/5 border border-white/10 text-white font-bold tracking-wide hover:bg-white/10 transition-all shadow-lg hover:shadow-purple-500/20">
                                                 <i className="fa-solid fa-link mr-2"></i> Link Device & Deploy
                                             </button>
